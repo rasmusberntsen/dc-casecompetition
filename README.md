@@ -2,7 +2,7 @@
 
 
 ## Dataset Description
-In each of the data sets you will have one years worth of data data for each of the three markets that you have trade in the game. You can use the data in any way you want to try and deduct any patterns or correlation towards the market price. 
+In each of the data sets you will have one years worth of data for each of the three markets that you have trade in the game. You can use the data in any way you want to try and deduct any patterns or correlation towards the market price. 
 
 The dataset will have the following variables
 - Wind forecasts for D+1 published before the spot auction at 12:00
